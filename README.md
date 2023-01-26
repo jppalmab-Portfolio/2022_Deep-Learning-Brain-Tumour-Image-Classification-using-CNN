@@ -1,1 +1,6 @@
 # 2022_Deep-Learning-Brain-Tumour-Image-Classification-using-CNN
+## [Python|Keras|CNN]
+
+In this project, we developed a Tumour Image Classification using Convolutional Neural Network for the course "Data Mining and Machine Learning II", which was focused on deep learning tools.
+
+**Abstract**—A brain tumour is the growth of abnormal cells or masses in the brain. The most common method for detecting a brain tumour is to examine an MRI of the brain. During an MRI, a large number of pictures are generated. According to detailed research, manually recognizing brain tumours has a higher mistake rate than brain tumours discovered using deep learning classification. Detecting brain tumours and their varieties are challenging in medical image processing. Deep learning and other cutting-edge image-processing technologies can be utilized to solve these problems. The convolution neural network is one of the most effective ways of identifying photos. We are using a convolution neural network to classify the brain images in this study. We will categorize the brain scans as having no tumour or glioma, meningioma, or pituitary tumours. We will utilise the Brain Tumour Classification dataset from Kaggle for this project. The confusion matrix, accuracy, f1 score, recall score, and precision will all be used to evaluate this constructed model.
